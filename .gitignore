@@ -1,0 +1,16 @@
+# InDesign Lock Files
+*.idlk
+
+# InDesign Recovery Files (often found in user app data)
+# These are typically outside the project folder, but ignore them if localized
+*.idls
+*.idrc
+
+# Package/Export folders (optional)
+# Often contains heavy duplicates of links and fonts
+Links/
+Document fonts/
+
+# System-specific junk
+.DS_Store
+Thumbs.db
